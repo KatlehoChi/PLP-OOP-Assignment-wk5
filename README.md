@@ -13,7 +13,7 @@ The main goals of this project are:
 
 
 # Features
-# Assignment 1: Design Your Own Class 🏗️
+# Assignment 1: Design Your Own Class 
 
 Create a custom class with attributes and methods.
 
@@ -21,7 +21,7 @@ Use constructors to initialize objects with unique values.
 
 Incorporate inheritance to demonstrate object hierarchy.
 
-# Activity 2: Polymorphism Challenge 🎭
+# Activity 2: Polymorphism Challenge 
 
 Define a common action method for multiple classes.
 
